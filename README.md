@@ -1,0 +1,3 @@
+<h1>Windows Admin Automations</h1>
+<p>Throughout the years, and at various places of employment, I have created various scripts and automations to make my life a little easier. I am freely sharing these with you. Of course, these were specific to my IT infrastructure at the time, so you may have to do a little tweaking to insure that they work for you.</p>
+<p>These scripts are written in a few different languages and will be separated as such. Some scripts even have equivalents in different languages, as I would write something in Python or similar and not be able to use a .py file later on.</p>
